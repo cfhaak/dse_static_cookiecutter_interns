@@ -23,3 +23,10 @@ What you will need:
 4. git
 5. github account
 6. maybe js
+
+
+Here are some projects running on dse-cookiecutter:
+https://github.com/grocerist/grocerist-app (unfinished)
+https://github.com/bundesverfassung-oesterreich/bv-static (unfinished)
+https://amp.acdh.oeaw.ac.at/
+https://hanslick.acdh.oeaw.ac.at/
