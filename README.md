@@ -16,10 +16,9 @@ Play around with it:
 - Try to process some of your own basic (textual) data there, using a github workflow and the existing xslt. (You would need to create/provide some valid TEI-XML first! such as:https://github.com/Auden-Musulin-Papers/amp-data/tree/main/data/editions; the edition is mostly in English, if you have created your own pilot TEI/XML feel free to use these)
 - Try to publish the result using github pages.
 - Maybe try do display some spatial data?
-  -Try utilizing existing js-code ( https://github.com/ofmgraz/ofm-static/blob/main/html/js/make_map_and_table.js
-  and
-  https://github.com/ofmgraz/ofm-static/blob/main/html/js/map_table_cfg.js ),
-  -This repository show how to create basic functionality: https://ofmgraz.github.io/ofm-static/listplace.html
+  - Try utilizing existing js-code ( https://github.com/ofmgraz/ofm-static/blob/main/html/js/make_map_and_table.js
+    and https://github.com/ofmgraz/ofm-static/blob/main/html/js/map_table_cfg.js ),
+  - This repository show how to create basic functionality: https://ofmgraz.github.io/ofm-static/listplace.html
 
 What you will need:
 
